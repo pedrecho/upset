@@ -1,0 +1,13 @@
+Programming Languages;Coverage;Java;Python;C++;C#;C;Scala;Swift;Perl;D;Object Pascal;Ruby;Common Lisp;F#;PHP;OCaml;Lua;JavaScript;Erlang;Go;Fortran;Visual Basic .NET;Clojure;HTML / CSS;Objective-C;TypeScript;Elixir;Visual-Basic;Kotlin;ASP.net;Delphi;Rust;ActionScript;Groovy;Dart;R;Haskell;Julia;Assembly language;Scheme;Matlab;Bash / Shell;CoffeeScript;SQL;COBOL;PowerShell;Logo;WebAssembly;
+Imperative programming;57.45%;1;1;1;1;1;0;1;1;1;1;1;1;0;1;1;0;1;0;0;1;1;0;0;0;1;0;1;0;1;0;1;0;1;0;0;0;1;1;0;1;1;1;0;0;0;0;1;
+Object-oriented programming (OOP);68.09%;1;1;1;1;0;1;1;1;1;1;1;1;1;1;1;1;1;0;1;1;1;0;0;1;1;0;0;1;1;1;1;1;1;1;1;0;1;0;0;1;0;0;0;1;0;0;0;
+Functional programming;68.09%;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;1;0;0;1;1;1;0;0;0;1;0;1;0;1;1;1;0;1;0;0;1;0;0;0;1;0;
+Dynamic programming;44.68%;1;1;0;1;0;0;0;1;0;0;1;1;1;1;0;1;1;1;0;0;0;1;0;1;0;1;0;0;1;0;0;1;1;0;1;0;1;0;0;1;0;0;0;0;1;0;0;
+Procedural programming;61.70%;1;1;1;1;1;1;1;1;1;1;1;1;0;0;1;1;0;0;1;1;0;0;0;1;0;0;0;1;1;0;1;1;1;1;1;0;1;0;0;1;1;0;0;1;1;0;0;
+Generic programming;36.17%;1;1;1;1;1;0;1;0;0;1;1;0;1;1;0;0;1;0;0;1;1;0;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;
+Reflective programming;40.43%;1;1;0;1;1;0;0;1;1;0;1;0;1;1;0;1;0;0;1;0;1;0;0;1;0;0;0;0;1;1;0;0;0;0;1;0;1;0;1;0;0;0;0;0;1;0;0;
+Event-driven programming;46.81%;1;1;1;1;1;1;1;0;0;1;0;1;1;1;0;0;1;1;1;0;1;0;0;1;1;1;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;
+Declarative programming;23.40%;1;1;1;1;0;0;1;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;
+Flow-Based Programming (FBP);10.64%;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;
+Constraint programming;17.02%;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;
+Data-driven programming;6.38%;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;
