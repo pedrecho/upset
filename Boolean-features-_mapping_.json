@@ -5,7 +5,8 @@
 	"separator": ",",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Name" }
+		{ "type": "id", "index": 0, "name": "Name" },
+		{ "type": "integer", "index": 1, "name": "Coverage"}
 	],
 	"sets": [
 		{ "format": "binary", "start": 2, "end": 30 }
