@@ -9,6 +9,6 @@
 		{ "type": "integer", "index": 1, "name": "Coverage"}
 	],
 	"sets": [
-		{ "format": "binary", "start": 2, "end": 10 }
+		{ "format": "binary", "start": 2, "end": 21 }
 	]
 }
