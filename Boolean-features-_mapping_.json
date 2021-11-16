@@ -1,6 +1,6 @@
 {
-	"file": "https://raw.githubusercontent.com/pedrecho/upset/main/Boolean-features-_mapping_.csv",
-	"name": "Boolean Features Programming Languages",
+	"file": "https://raw.githubusercontent.com/pedrecho/upset/main/Boolean-features-_mapping_(1).csv",
+	"name": "Platform",
 	"header": 0,
 	"separator": ",",
 	"skip": 0,
